@@ -1,2 +1,3 @@
-# website game
- old game website
+__My first website made from scratch__
+ And this is the dynamic version
+ https://github.com/yourhamza
